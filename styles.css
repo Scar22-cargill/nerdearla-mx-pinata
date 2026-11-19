@@ -15,9 +15,9 @@
 */
 :root {
   --color-1: #E4007C;
-  --color-2: #FFC21A;
-  --color-3: #00A6A6;
-  --cuerpo: #FFF6E5;
+  --color-2: #00A6A6;
+  --color-3: #E4007C;
+  --cuerpo: #7A2AB8;
 }
 
 /* A partir de aquí no necesitas cambiar nada, pero puedes explorar */
